@@ -1,0 +1,1 @@
+﻿add_filter('autoptimize_filter_noptimize','beaver_noptimize',10,0);function beaver_noptimize() {if (strpos($_SERVER['REQUEST_URI'],'fl_builder')!==false) {return true;} else {return false;}}
