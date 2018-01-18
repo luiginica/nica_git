@@ -5,3 +5,7 @@ https://pointblankpro.com/remove-render-blocking-javascript-css-wordpress/
 http://www.onlinemediamasters.com/w3-total-cache-settings/
 https://dev.daanvandenbergh.com/wordpress/pagespeed-pingdom-w3tc-autoptimize/
 https://www.ibenic.com/better-wordpress-performance/
+
+
+https://wpsessions.com/lesson/forcing-jquery-js-footer/
+https://www.udemy.com/make-your-wordpress-sites-fastest-in-world/
