@@ -1,0 +1,1 @@
+﻿Please copy file header.php in claue to claue-child and override.
