@@ -9,3 +9,4 @@ https://www.ibenic.com/better-wordpress-performance/
 
 https://wpsessions.com/lesson/forcing-jquery-js-footer/
 https://www.udemy.com/make-your-wordpress-sites-fastest-in-world/
+swws
